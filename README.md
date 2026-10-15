@@ -4,3 +4,5 @@ code is vibe coded in asm, compiled with nasm, hopefully my 286 will be able to 
 
 or check other image keyboardtest-boot.img which has dos-less image with that keyboard and nice gui.
 <img width="739" height="446" alt="image" src="https://github.com/user-attachments/assets/4158c3bc-7cef-414c-8a93-24f409f571de" />
+
+and there is also keyboardtest-floppy.img with free-dos boot.
